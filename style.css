@@ -69,3 +69,6 @@ button:hover {
   padding: 0.6em;
   border-radius: 50%;
 }
+
+@media (min-width: 1440px) {
+}
