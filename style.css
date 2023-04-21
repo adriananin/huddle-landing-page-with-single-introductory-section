@@ -1,0 +1,71 @@
+@import url("normalize.css");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap");
+
+body {
+  background: url("images/bg-mobile.svg") no-repeat top;
+  background-color: hsl(257, 40%, 49%);
+  background-size: 100% auto;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+.illustration {
+  margin-top: 2em;
+}
+
+.illustration-svg {
+  width: 100%;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.logo {
+  margin-top: 2em;
+  margin-left: 4em;
+}
+.logo-img {
+  width: 40%;
+}
+
+.content {
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  margin-top: 3em;
+}
+
+p {
+  line-height: 1.5;
+}
+
+button {
+  padding: 0.5em 3.5em;
+  color: hsl(257, 40%, 49%);
+  background-color: white;
+  border-radius: 50px;
+  border: none;
+}
+
+button:hover {
+  background-color: hsl(300, 69%, 71%);
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  margin-top: 2em;
+  justify-content: center;
+  gap: 10px;
+}
+
+.icon {
+  border: 1px solid white;
+  padding: 0.6em;
+  border-radius: 50%;
+}
