@@ -21,9 +21,9 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [](https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [(https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)]
 
-- Live Site URL: [](https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)
+- Live Site URL: [(https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)]
 
 ## My process
 
