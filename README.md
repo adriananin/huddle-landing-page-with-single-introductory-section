@@ -13,19 +13,17 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-x
-
 ## Overview
 
 ### Screenshot
 
-![](./img/screenshot.png)
+![](/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [](https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)
 
-- Live Site URL: [Add live site URL here](https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)
+- Live Site URL: [](https://adriananin.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
@@ -42,6 +40,7 @@ x
 
 - The position of a background image can be changed
 - The fill of an svg can be changed directly on the svg.
+- SVG viewbox attribute helps define what part of the SVG should be visible when someone views it on their browser.
 
 ### Continued development
 
